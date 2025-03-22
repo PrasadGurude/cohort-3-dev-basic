@@ -1,0 +1,12 @@
+{
+  "name": "deb-basic",
+  "version": "1.0.0",
+  "description": "<!-- js is single threaded lang -->\r <!-- rust is muti threaded -->\r <!-- there are three way for memory managemetn \r     1. Garbage collector   \r     2. Manual \r     3. The rust way-->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
